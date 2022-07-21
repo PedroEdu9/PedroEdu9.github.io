@@ -42,11 +42,23 @@ body {
 
 .profile .profile-image {
     width: 100%;
+<<<<<<< HEAD
+<<<<<<< HEAD
+    
+=======
 // day-02
     
 =======
     border-radius: %;
 // main
+>>>>>>> 9f061ec1ba90c4eb5b989f28d6694bd3512f4bc0
+=======
+// day-02
+    
+=======
+    border-radius: %;
+// main
+>>>>>>> 91853983ef9cac2d16e9d95073ac950f17383f77
 }
 
 .name {
