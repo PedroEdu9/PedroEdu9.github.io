@@ -1,4 +1,4 @@
-# devweekgit.github.io
+# PedroEdu9.github.io
 Currículo do Jornada Dev
 
 Andamento: Completo
