@@ -2,6 +2,7 @@
 Currículo do Jornada Dev
 
 Andamento: Completo
+
 Esse curso foi onde tive minha primeira experiência com Git & GitHub.
 Foi desenvolvido um currículo web hospedado pelo próprio GitHub, utilizando
 HTML e CSS básico.
